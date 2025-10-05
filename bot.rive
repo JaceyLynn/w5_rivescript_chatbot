@@ -1,6 +1,16 @@
 ! version = 2.0
 
-// Rhetorical responses for specific cases
++ (hi|hello|hey|greetings) *
+- What brings you here today?
+- What's on your mind?
+- What's the occasion for this chat?
+
++ (how are you) *
+- How are any of us, really?
+- Isn't that the eternal question?
+- How do you think I am?
+- What makes you wonder about my state?
+- Shouldn't you be asking yourself that?
 
 + * not *
 - Why not?
@@ -35,6 +45,10 @@
 - Wow
 - Why do you feel that way?
 
++ * believe *
+- What leads you to that conclusion?
+
 + *
 - What makes you say that?
-- What?
+- What's your point exactly?
+- Why does that matter to you?
